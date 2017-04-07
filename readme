@@ -1,0 +1,41 @@
+How to Run
+----------
+
+make; ./foggymountains
+
+Summary
+-------
+I created a mountain range using a heightmap by computing hight values from color and then overlaying a colored version of the hight map as a texture, to create depth.  I also added fog to the mountains to create a "snowy mountain effect."  I turned off all ambient lighting to create the dark mysterious effect.
+
+The camera is designed to simulate flight, and works best by clicking the mouse and draging it around the screen. You can roll with q and e 
+
+The "dragon" that is flying can shoot out "fireballs" to light up the scene.
+
+Keyboard Inputs
+---------------
+Esc: Exit program
+0:reset to start position
+
+Click and Drag the mouse around the screen to steer the camera.
+
+Additional controls
+
+w:Speed up
+s:Throttle speed
+a:Yaw left
+d:Yaw right
+q:Roll left
+e:Roll right
+z:Tilt up
+x:Tilt down
+1:Look left
+2:Look right
+
+spacebar:shoot a fireball
+
+
+
+
+
+
+
